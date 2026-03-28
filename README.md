@@ -1,7 +1,9 @@
 # Guideline for the Labovian-Structural Analysis of Oral Narratives in Japanese
 
 clause_segmentation (ja/en): A guideline for the clause segmentation task in Japanese/English
+
 narrative_span (ja/en): A guideline for the narrative span- and type- detection task in Japanese/English
+
 clause_classification (ja/en): A guideline for the clause classification (micro-/macro- structure) task in Japanese/English
 
 
