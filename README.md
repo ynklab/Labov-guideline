@@ -4,7 +4,7 @@ clause_segmentation (ja/en): A guideline for the clause segmentation task in Jap
 
 narrative_span (ja/en): A guideline for the narrative span- and type- detection task in Japanese/English
 
-clause_classification (ja/en): A guideline for the clause classification (micro-/macro- structure) task in Japanese/English
+clause_classification (ja/en): A guideline for the clause classification (micro-/macro- structure) task in Japanese/mechanical English traslation. 
 
 
 ### Citation
